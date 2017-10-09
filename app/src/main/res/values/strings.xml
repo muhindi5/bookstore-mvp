@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">BookWorms</string>
+    <string name="close_msg">Register</string>
+    <string name="prompt_username">Enter your username</string>
+    <string name="invalid_password_message">Invalid, please try again</string>
+    
+    <!--cardview strings-->
+    <string name="book_title">My First Book</string>
+    <string name="book_author">H. Frost</string>
+    <string name="book_year">1984</string>
+    <string name="book_site">http://thefirstbook.org</string>
+</resources>
